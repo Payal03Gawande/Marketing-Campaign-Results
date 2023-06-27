@@ -1,4 +1,6 @@
 # Marketing-Campaign-Results
+![How-to-run-a-B2B-marketing-campaign](https://github.com/Payal03Gawande/Marketing-Campaign-Results/assets/132563037/e220cefd-c5e1-414a-8e78-3ca663225c27)
+
 # Background and Problem:
 
 Maven Marketing conducted a marketing campaign to engage potential and inactive customers.
